@@ -130,6 +130,3 @@ src/
 - Google Maps entegrasyonu
 
 
-## Geliştirici
-
-Asım Sinan Yüksel - 2025
