@@ -4,7 +4,6 @@ Mekanbul, kullanıcıların çevrelerindeki mekanları keşfetmesini ve yorum ya
 
 ## Canlı Linkler
 
-- **Vercel:** [https://mekanful-frontend.vercel.app](https://mekanful-frontend.vercel.app)
 - **Localhost:** [http://localhost:5173/](http://localhost:5173/)
 
 ## 🚀 Kurulum ve Çalıştırma
